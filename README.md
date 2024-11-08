@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend is where I live. Frontend is where I occasionally visit to make sure it’s still working.
+Backend is where I live. Frontend is where I occasionally visit to make sure it’s still working.<br>
 🔭 I’m currently working on unfinished projects<br>🤝 I’m ready to collaborate on anything<br>🥺 I’m looking for help with graphics/design<br>🌱 I’m currently learning Js, Python, Java, GML<br>😅 Don't ask me how many unfinished projects I have <br>⚡ Fun fact: One of unfinished projects is my portfolio page
 
 
