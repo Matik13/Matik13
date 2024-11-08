@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on unfinished projects<br>👯 I’m looking to collaborate on anything<br>🤝 I’m looking for help with graphic/design<br>🌱 I’m currently learning Js, Python, Java, GML<br>😅 Don't ask me how many unfinished projects I have <br>⚡ Fun fact: One of unfinished projects is my portfolio page
+Backend is where I live. Frontend is where I occasionally visit to make sure it’s still working.
+🔭 I’m currently working on unfinished projects<br>🤝 I’m ready to collaborate on anything<br>🥺 I’m looking for help with graphics/design<br>🌱 I’m currently learning Js, Python, Java, GML<br>😅 Don't ask me how many unfinished projects I have <br>⚡ Fun fact: One of unfinished projects is my portfolio page
 
 
 # 💻 Tech Stack:
@@ -8,5 +9,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Matik13&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Matik13&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matik13&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
